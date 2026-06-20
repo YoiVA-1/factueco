@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.card-login {
+    width: 100%;
+    max-width: 400px;
+}
+
+.image-login {
+    width: 100%;
+    max-width: 260px;
+    height: auto;
+}
+
+.card-login input {
+    font-size: 1rem;
+}
+
+.card-login input:focus {
+    outline: none;
+}
